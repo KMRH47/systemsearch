@@ -1,6 +1,6 @@
 .PHONY: install uninstall clean
 
-EXTENSION_DIR := $(HOME)/.local/share/ulauncher/extensions/systemsearch.kmrh47
+EXTENSION_DIR := $(HOME)/.local/share/ulauncher/extensions/systemsearch
 
 install:
 	@if ! command -v plocate >/dev/null 2>&1; then \

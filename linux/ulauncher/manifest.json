@@ -4,7 +4,7 @@
   "description": "Ultra fast plocate search",
   "developer_name": "KMRH47",
   "icon": "images/icon.png",
-  "id": "systemsearch.kmrh47",
+  "id": "systemsearch",
   "preferences": [
     {
       "id": "keyword",
