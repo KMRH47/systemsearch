@@ -19,6 +19,20 @@
       "name": "Frequency Half-Life (days)",
       "description": "Number of days for frequency score to decay by half (lower = more aggressive decay)",
       "default_value": "7"
+    },
+    {
+      "id": "extra_dirs",
+      "type": "text",
+      "name": "Extra Directories",
+      "description": "Comma-separated list of absolute paths to index (e.g. /media/drive1, /home/user/work)",
+      "default_value": ""
+    },
+    {
+      "id": "index_mounted_drives",
+      "type": "keyword",
+      "name": "Index Mounted Drives",
+      "description": "Automatically index drives mounted in /media (true/false)",
+      "default_value": "true"
     }
   ]
 }
