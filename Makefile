@@ -36,7 +36,7 @@ install:
 	@pkill -9 ulauncher 2>/dev/null || true
 	@sleep 1
 	@ulauncher >/dev/null 2>&1 &
-	@echo "systemsearch installed! Open Ulauncher and type 'find <query>'"
+	@echo "systemsearch installed! Open Ulauncher and type 'l <query>'"
 
 uninstall:
 	@rm -rf $(EXTENSION_DIR)

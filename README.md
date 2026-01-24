@@ -10,4 +10,4 @@ make install
 
 ## Usage
 
-Open Ulauncher, type `find <query>`
+Open Ulauncher, type `l <query>`

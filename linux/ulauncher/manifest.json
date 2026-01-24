@@ -9,9 +9,9 @@
     {
       "id": "keyword",
       "type": "keyword",
-      "name": "Find",
+      "name": "Locate",
       "description": "Keyword to search files with plocate",
-      "default_value": "find"
+      "default_value": "l"
     },
     {
       "id": "frequency_half_life",
